@@ -1,21 +1,26 @@
 # AUTmap
 
-***Building a better world for autistic people and thier families*** 
+**Building a better world for autistic people and thier families** 
 
-Welcome to AUTmap
+### Welcome to AUTmap
 
-Keep reading to find out more, or [login straight away.](#3-Login) 
+*Keep reading to find out more, or [login straight away.](#3-Login)* 
 
-What would the world be like if it was built by autistic people and for autistic people? 
-How would it be different? 
+#### What would the world be like if it was built by autistic people and for autistic people?
+
+#### How would it be different? 
 
 This website exists to answer that question. 
 We are a group of autistic people, researchers, and allies of autistic people, who think that the world would be a much better place if autistic people had more of a say in how public and private spaces are used and designed. 
 
+Compared to non-autistic people, autistic people can experience the sensory world differently. 
+For example, they may find sounds lounder, lights brighter, colours more beautiful and virbrant or busy spaces more overwhelming.
+This can be a wonderful gift, but it can also cause lots of problems for autistic people and their families when they are trying to navigate a world not built with autistic people in mind.  
 All autistic people are different. 
-We want to collect together lots of stories from autistic people and those close to them, for example family members. 
-There are three main goals: 
+We want to collect together lots of stories from autistic people and those close to them, for example family members, so that we can better understand how sensory processsing differences affect the way autistic people navigate the world around them.
+Together, we can use this information to build a better world for autistic people and their families. 
 
+There are three main goals: 
 
 1. To advise organisations about how they can design and adapt spaces and policies to improve autistic people’s lives. 
 2. To educate non-autistic people so that they can better support their autistic friends, families, and colleagues. 
