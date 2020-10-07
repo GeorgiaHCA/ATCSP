@@ -11,7 +11,8 @@ If you change your mind about sharing an experience, we will immediately remove 
 | 02.02.02    | here      |   - [ ]- [ ]- [ ] |submitted
 | 03.03.03| lots of stuff     |   - [ ]- [ ]- [ ] |pending pub
 
-Share this page with someone else? [get sharing link]
-Find out more [about the project]()
+* Share this page with someone else? [get sharing link]
+* Find out more [about the project](/about/about.md)
 
-[Enter another experience]() [Home]()
+* [Enter another experience](/enter-experience/enter-experience.md) 
+* [Home](/REAMDE.md)
