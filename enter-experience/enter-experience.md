@@ -36,8 +36,8 @@ _________________________________________________________
 
 You can always change your mind by going to "My Data" at the top bar. 
 
-[Save for later](#7-Save-confirmation)
+[Save for later](/enter-experience/save-confirmation.md)
 
-[SUBMIT](#6-Submission-confirmation)
+[SUBMIT](/enter-experience/submission-confirmation.md)
 
 #
