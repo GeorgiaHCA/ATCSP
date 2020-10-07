@@ -4,7 +4,7 @@
 
 ### Welcome to AUTmap
 
-*Keep reading to find out more, or [login straight away.](#3-Login)* 
+*Keep reading to find out more, or [login straight away.](/signup/signup.md)* 
 
 #### What would the world be like if it was built by autistic people and for autistic people?
 
