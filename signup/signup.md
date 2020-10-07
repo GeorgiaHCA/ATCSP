@@ -12,7 +12,7 @@ Are you answering on behalf of someone else? If you are helping someone else to 
 - [ ] No
 
 Would you mind telling us a little more about yourself? 
-- [ ] [Yes, ask me more questions](/survey.md)
+- [ ] [Yes, ask me more questions](/main/signup/survey.md)
 *If you answer more questions, you will help us do better and fairer research*
 - [ ] [No, sign me up right away.](https://hackmd.io/S-4fFP7ITBGuum3BZ2aK0A#Sign-Up-Confirmation)
 
