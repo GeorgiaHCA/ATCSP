@@ -14,6 +14,6 @@ Are you answering on behalf of someone else? If you are helping someone else to 
 Would you mind telling us a little more about yourself? 
 - [ ] [Yes, ask me more questions](/signup/survey.md)
 *If you answer more questions, you will help us do better and fairer research*
-- [ ] [No, sign me up right away.](https://hackmd.io/S-4fFP7ITBGuum3BZ2aK0A#Sign-Up-Confirmation)
+- [ ] [No, sign me up right away.](/signup/signup-confirmation.md)
 
 [Email, password, consent-taking and confirmation]
