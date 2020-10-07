@@ -15,4 +15,4 @@ If you change your mind about sharing an experience, we will immediately remove 
 * Find out more [about the project](/about/about.md)
 
 * [Enter another experience](/enter-experience/enter-experience.md) 
-* [Home](/ATCSP/REAMDE.md)
+*
