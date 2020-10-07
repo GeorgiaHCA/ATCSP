@@ -7,12 +7,13 @@ Are you Autistic?
 - [ ] No
 
 Are you answering on behalf of someone else? If you are helping someone else to sign up but they are providing their own answers, please check "no" to this question.
-- [ ] Yes
-- if yes, please make sure you have their permission if they are able to give it. We also suggest you read our [guidelines] for answering on behalf of others before you enter experiences. 
+- [ ] YeS
+*If you are answering on behalf of someone else, please make sure you have their permission if they are able to give it. We also suggest you read our [guidelines] for answering on behalf of others before you enter experiences.* 
 - [ ] No
 
 Would you mind telling us a little more about yourself? 
-- [ ] [Yes, ask me more questions](#Sign-Up-Survey) 
+- [ ] [Yes, ask me more questions]()
+*If you answer more questions, you will help us do better and fairer research*
 - [ ] [No, sign me up right away.](https://hackmd.io/S-4fFP7ITBGuum3BZ2aK0A#Sign-Up-Confirmation)
 
 [Email, password, consent-taking and confirmation]
