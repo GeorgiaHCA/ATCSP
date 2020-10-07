@@ -7,7 +7,7 @@ Are you Autistic?
 - [ ] No
 
 Are you answering on behalf of someone else? If you are helping someone else to sign up but they are providing their own answers, please check "no" to this question.
-- [ ] YeS
+- [ ] Yes
 *If you are answering on behalf of someone else, please make sure you have their permission if they are able to give it. We also suggest you read our [guidelines] for answering on behalf of others before you enter experiences.* 
 - [ ] No
 
