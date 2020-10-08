@@ -41,6 +41,8 @@ Together, we can use this information to build a better world for autistic peopl
 2. [Login](/signup/signup-confirmation.md)
 3. [Enter an experience](/enter-experience/enter-experience.md)
 
+#### You can also view the experiences which other people have consented to be made public, whether or not you share you choose to share your own experience. 
+
 #### Then what? 
 
 When you have entered an experience, you can decide who to share it with. We believe that your data should belong to you, so it's your choice what to do with it. You can also change your mind at any time by going to [my experiences] and selecting which options you would like
@@ -49,6 +51,10 @@ When you have entered an experience, you can decide who to share it with. We bel
 2. If you choose to **make your experience public**, your experience will first be checked over by a moderator to make sure it follows our [code of conduct](). You will be notified when a moderator has made a decision about your experience. If they decide it does follow our code of conduct, it will be published anonymously on this website and anyone will be able to viewe it. You can also choose to share with both researchers and to make it public by ticking both boxes. 
 3. If you choose to **only share your experience with autistic people**, then only people who have signed in to this website and told us they are autistic will be able to view your experiences.  
 4. If you choose **not to share** your experience you can still view it by going to [/myexperiences/my-experiences.md], and you can change your mind at any time. 
+
+#### Why?
+
+The more experiences from autistic people we collect, the stronger our case will be and the better our knowleedge will be to make changes. These changes could include designing buildings autistic people like to be in, making public spaces and public transport less stressful to use for autistic people, and designing policy to support autistic people. Ou ultimate aim is always longer, healthier, happier lives for autistic peoeple and their families. 
 
 A few more quick notes 
 
