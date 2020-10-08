@@ -1,6 +1,10 @@
 # 4. Enter your experience
 
-How would you like to enter your experience? 
+[Tell me more about my sharing options first](#about-your-sharing-options)
+
+# Let's Go!
+
+## How would you like to enter your experience? 
 
 *[**Free text**](#Free-Text)
 
