@@ -21,6 +21,6 @@ If you are helping someone else to sign up but they are providing their own answ
 Would you mind telling us a little more about yourself? 
 - [ ] [Yes, ask me more questions](/signup/survey.md)
 *If you answer more questions, you will help us do better and fairer research*
-- [ ] [No, sign me up right away.](/signup/signup-confirmation.md)
+- [ ] [No, sign me up right away](/signup/signup-confirmation.md)
 
 [Email, password, consent-taking and confirmation]
