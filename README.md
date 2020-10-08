@@ -39,7 +39,7 @@ Together, we can use this information to build a better world for autistic peopl
 
 1. Sign up
 2. Login
-3. Share an experience (change your mind)
+3. Share an experience
 
 #### Then what? 
 
