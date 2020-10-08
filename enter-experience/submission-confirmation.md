@@ -1,6 +1,6 @@
-![](https://i.imgur.com/0hMNQQn.png)
-
 # Thank you!
+
+![](https://i.imgur.com/0hMNQQn.png)
 
 Your experience has been succesfully submitted.
 Thank you for helping build a better world for autistic people. 
