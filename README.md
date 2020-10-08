@@ -16,7 +16,7 @@ We are a group of autistic people, researchers, and allies of autistic people, w
 Compared to non-autistic people, autistic people can experience the sensory world differently. 
 For example, they may find sounds lounder, lights brighter, colours more beautiful and virbrant or busy spaces more overwhelming.
 
-This can be a wonderful gift, but it can also cause lots of problems for autistic people and their families when they are trying to navigate a world not built with autistic people in mind. For example, it can be stressful taking a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
+This can be a wonderful gift, but it can also cause lots of problems for autistic people and their families when they are trying to navigate a world not built with autistic people in mind. For example, it can be stressful taking a busy train during rush hour, or attending an appointment in a brightly lit hospital waiting room.
 
 The video below, which was made in collaboration with autistic people, shows some of the challenges sensory processing differences can present:
 
