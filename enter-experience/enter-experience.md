@@ -48,7 +48,7 @@ You can always change your mind by going to "My Data" at the top bar.
 
 ***When you have entered an experience, you can decide who to share it with.*** 
 
-We believe that your data should belong to you, so it's your choice what to do with it. You can also change your mind at any time by going to my experiences and selecting which options you would like
+We believe that your data should belong to you, so it's your choice what to do with it. 
 
 * If you choose to share your experience with researchers, your experience will be part of a dataset with other people's experiences, and researchers can apply to look at the dataset for the purposes of making the world better for autistic people and their families. You can make this choice by checking the box 'share with researchers'.
 
@@ -56,5 +56,6 @@ We believe that your data should belong to you, so it's your choice what to do w
 
 * If you choose to only share your experience with autistic people, then only people who have signed in to this website and told us they are autistic will be able to view your experiences. You can make this choice by checking the box which says 'share, but only with people who have signde up and said they are autistic'
 
-* If you choose not to share your experience you can still view it by going to [My Experiences](/my-experiences/my-experiences.md), and you can change your mind at any time.
+* If you choose not to share your experience you can still view it by going to [My Experiences](/my-experiences/my-experiences.md).
 
+You can also change your mind at any time by going to [My-Experiences](/my-experiences/my-experiences.md)and selecting which options you would like
