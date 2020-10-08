@@ -1,7 +1,6 @@
-![](https://i.imgur.com/XiJMBFp.jpg)
 # AUTmap
-![](https://i.imgur.com/XiJMBFp.jpg)
 
+![](https://i.imgur.com/XiJMBFp.jpg)
 
 **Building a better world for autistic people and thier families** 
 
