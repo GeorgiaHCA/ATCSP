@@ -36,7 +36,7 @@ _________________________________________________________
 
 You can always change your mind by going to "My Data" at the top bar. 
 
-[Tell me more about sharing my experience.]()
+[Tell me more about sharing my experience.](#About-your-sharing-options)
 
 [Save for later](/enter-experience/save-confirmation.md)
 
