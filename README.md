@@ -45,7 +45,7 @@ You can also [view experiences](/view-experiences/view-experiences.md) which oth
 
 #### Then what? 
 
-When you have entered an experience, you can decide who to share it with. We believe that your data should belong to you, so it's your choice what to do with it. You can also change your mind at any time by going to [my experiences] and selecting which options you would like
+When you have entered an experience, you can decide who to share it with. We believe that your data should belong to you, so it's your choice what to do with it. You can also change your mind at any time by going to [my experiences](/my-experiences/my-experiences.md) and selecting which options you would like
 
 1. If you choose to **share your experience with researchers**, your experience will be part of a dataset with other people's experiences, and researchers can apply to look at the dataset for the purposes of making the world better for autistic people and their families. 
 2. If you choose to **make your experience public**, your experience will first be checked over by a moderator to make sure it follows our [code of conduct](). You will be notified when a moderator has made a decision about your experience. If they decide it does follow our code of conduct, it will be published anonymously on this website and anyone will be able to viewe it. You can also choose to share with both researchers and to make it public by ticking both boxes. 
