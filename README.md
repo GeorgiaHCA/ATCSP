@@ -41,7 +41,7 @@ Together, we can use this information to build a better world for autistic peopl
 2. [Login](/signup/signup-confirmation.md)
 3. [Enter an experience](/enter-experience/enter-experience.md)
 
-#### You can also view the experiences which other people have consented to be made public, whether or not you share you choose to share your own experience. 
+You can also [view experiences](/view-experiences/view-experiences.md) which other people have consented to be made public, whether or not you share you choose to share your own experience. 
 
 #### Then what? 
 
