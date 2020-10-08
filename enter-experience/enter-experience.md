@@ -58,4 +58,8 @@ We believe that your data should belong to you, so it's your choice what to do w
 
 * If you choose not to share your experience you can still view it by going to [My Experiences](/my-experiences/my-experiences.md).
 
-You can also change your mind at any time by going to [My-Experiences](/my-experiences/my-experiences.md)and selecting which options you would like
+You can also change your mind at any time by going to [My-Experiences](/my-experiences/my-experiences.md) and selecting which options you would like
+
+Ready? 
+[Let's Go!](#enter-your-experience)
+[Tell me more first](/about/about.md)
