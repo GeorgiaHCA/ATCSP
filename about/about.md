@@ -1,12 +1,14 @@
 # 10. About the project
 
-"info" + video explanations
+This page will contain information about the project including: 
 
-testimonials, pics, and quotations
+* What it is designed to investigate (sensory processing and navigating environments)
+* How it was made (participatory science)
+* "info" + video explanations
+* testimonials, pics, and quotations
+* Simplified data flow showing what happens when you enter an experience
 
-Simplified data flow
-
-Research team (pics and profiles)
+* Information about the research team (pics and profiles)
 
 * Find out more about [Autistica]
 * Find out more about [Turing]
