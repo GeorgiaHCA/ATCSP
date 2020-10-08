@@ -1,4 +1,7 @@
+![](https://i.imgur.com/XiJMBFp.jpg)
 # AUTmap
+![](https://i.imgur.com/XiJMBFp.jpg)
+
 
 **Building a better world for autistic people and thier families** 
 
@@ -67,3 +70,5 @@ At the bottom right of every page you will always see this feedback button. This
 * [Sign Up](/signup/signup.md)
 * [Login](/signup/signup-confirmation.md)
 * [Find out more](/about/about.md)
+
+*Photo by Chris Barbalis on Unsplash*
