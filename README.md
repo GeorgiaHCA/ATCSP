@@ -37,15 +37,18 @@ Together, we can use this information to build a better world for autistic peopl
 
 #### How it works:
 
-1. Sign up
-2. Login
-3. Share an experience
+1. [Sign up](/signup/signup.md)
+2. [Login](/signup/signup-confirmation.md)
+3. [Enter an experience](/enter-experience/enter-experience.md)
 
 #### Then what? 
 
-1. (If you chose to share w. research) Your experience goes into a dataset - research! 
-2. (If you chose to go public) - moderation - sharing 
-3. (If you chose not to share) just you look at it (change your mind)
+When you have entered an experience, you can decide who to share it with. We believe that your data should belong to you, so it's your choice what to do with it. You can also change your mind at any time by going to [my experiences] and selecting which options you would like
+
+1. If you choose to **share your experience with researchers**, your experience will be part of a dataset with other people's experiences, and researchers can apply to look at the dataset for the purposes of making the world better for autistic people and their families. 
+2. If you choose to **make your experience public**, your experience will first be checked over by a moderator to make sure it follows our [code of conduct](). You will be notified when a moderator has made a decision about your experience. If they decide it does follow our code of conduct, it will be published anonymously on this website and anyone will be able to viewe it. You can also choose to share with both researchers and to make it public by ticking both boxes. 
+3. If you choose to **only share your experience with autistic people**, then only people who have signed in to this website and told us they are autistic will be able to view your experiences.  
+4. If you choose **not to share** your experience you can still view it by going to [/myexperiences/my-experiences.md], and you can change your mind at any time. 
 
 A few more quick notes 
 
@@ -53,7 +56,7 @@ At the top left of every page you will always see the accessibility symbol [symb
 
 At the bottom right of every page you will always see this feedback button. This lets you give feedback to the website designers if there’s something about the website you think should change, or you want to make a comment about the project. 
 
-Let’s get Started!
+## Let’s Go!
 
 * [Sign Up](/signup/signup.md)
 * [Login](/signup/signup-confirmation.md)
