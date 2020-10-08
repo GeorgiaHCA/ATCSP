@@ -62,6 +62,6 @@ You can also change your mind at any time by going to [My-Experiences](/my-exper
 
 Ready? 
 
-Yes, [Let's Go!](#enter-your-experience)
+Yes, [Let's Go!](#4-enter-your-experience)
 
 No, [Tell me more about the project first](/about/about.md)
