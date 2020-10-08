@@ -18,6 +18,6 @@ Research being done on the project
 * intro to researchers and projects
 
 * [How we decide who views the data]()
-* [How we moderate the platform](https://hackmd.io/S-4fFP7ITBGuum3BZ2aK0A#11-Moderation)
+* [How we moderate the platform]
 * How we chose this research question:
 * How we made this wesbite:
