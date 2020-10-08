@@ -48,8 +48,11 @@ You can always change your mind by going to "My Data" at the top bar.
 
 We believe that your data should belong to you, so it's your choice what to do with it. You can also change your mind at any time by going to my experiences and selecting which options you would like
 
-    If you choose to share your experience with researchers, your experience will be part of a dataset with other people's experiences, and researchers can apply to look at the dataset for the purposes of making the world better for autistic people and their families.
-    If you choose to make your experience public, your experience will first be checked over by a moderator to make sure it follows our code of conduct. You will be notified when a moderator has made a decision about your experience. If they decide it does follow our code of conduct, it will be published anonymously on this website and anyone will be able to viewe it. You can also choose to share with both researchers and to make it public by ticking both boxes.
-    If you choose to only share your experience with autistic people, then only people who have signed in to this website and told us they are autistic will be able to view your experiences.
-    If you choose not to share your experience you can still view it by going to [/myexperiences/my-experiences.md], and you can change your mind at any time.
+* If you choose to share your experience with researchers, your experience will be part of a dataset with other people's experiences, and researchers can apply to look at the dataset for the purposes of making the world better for autistic people and their families. You can make this choice by checking the box 'share with researchers'.
+
+* If you choose to make your experience public, your experience will first be checked over by a moderator to make sure it follows our code of conduct. You will be notified when a moderator has made a decision about your experience. If they decide it does follow our code of conduct, it will be published anonymously on this website and anyone will be able to viewe it. You can make this choice by checking the box 'share online with everyone'. You can You can also choose to share with both researchers and to make it public by ticking both 'share with researchers' and 'share online with everyone'.
+
+* If you choose to only share your experience with autistic people, then only people who have signed in to this website and told us they are autistic will be able to view your experiences. You can make this choice by checking the box which says 'share, but only with people who have signde up and said they are autistic'
+
+* If you choose not to share your experience you can still view it by going to [/myexperiences/my-experiences.md], and you can change your mind at any time.
 
