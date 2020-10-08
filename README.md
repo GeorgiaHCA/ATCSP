@@ -54,6 +54,6 @@ At the bottom right of every page you will always see this feedback button. This
 
 Let’s get Started!
 
-[Sign Up](#2-Sign-up)
-Login (go to 3)
-Find out more (go to 10)
+[Sign Up](/signup/signup.md)
+[Login](/signup/signup-confirmation.md)
+[Find out more](go to 10)
