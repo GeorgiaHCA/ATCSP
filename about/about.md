@@ -17,7 +17,7 @@ This page will contain information about the project including:
 Research being done on the project
 * intro to researchers and projects
 
-* [How we decide who views the data]()
-* [How we moderate the platform]
+* How we decide who views the data
+* [How we moderate the platform](/moderation/about-moderation.md)
 * How we chose this research question:
 * How we made this wesbite:
