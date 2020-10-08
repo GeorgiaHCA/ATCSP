@@ -28,20 +28,19 @@ All autistic people are different.
 We want to collect together lots of stories from autistic people and those close to them, for example family members, so that we can better understand how sensory processsing differences affect the way autistic people navigate the world around them.
 Together, we can use this information to build a better world for autistic people and their families. 
 
-There are three main goals: 
+#### There are three main goals: 
 
 1. To advise organisations about how they can design and adapt spaces and policies to improve autistic people’s lives. 
 2. To educate non-autistic people so that they can better support their autistic friends, families, and colleagues. 
 3. To share autistic people’s stories and tips with other autistic people who have similar experiences, so that they can learn from each other.
 
-How it works:
+#### How it works:
 
 1. Sign up
 2. Login
 3. Share an experience (change your mind)
 
-
-Then what? 
+#### Then what? 
 
 1. (If you chose to share w. research) Your experience goes into a dataset - research! 
 2. (If you chose to go public) - moderation - sharing 
