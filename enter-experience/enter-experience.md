@@ -52,5 +52,5 @@ We believe that your data should belong to you, so it's your choice what to do w
 
 * If you choose to only share your experience with autistic people, then only people who have signed in to this website and told us they are autistic will be able to view your experiences. You can make this choice by checking the box which says 'share, but only with people who have signde up and said they are autistic'
 
-* If you choose not to share your experience you can still view it by going to [/myexperiences/my-experiences.md], and you can change your mind at any time.
+* If you choose not to share your experience you can still view it by going to [/my-experiences/my-experiences.md], and you can change your mind at any time.
 
